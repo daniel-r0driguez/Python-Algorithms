@@ -1,0 +1,29 @@
+(A ## before an algorithm name means I've gone over it slowly in my notebook)
+Essential Algorithms
+	1. ##Binary Search Algorithm (Divide and Conquer): binarySearch.py
+	2. ##Breadth First Search (BFS) Algorithm (Queue data structure): binaryTree.py
+	3. ##Depth First Search (DFS) Algorithm (Stack data structure): binaryTree.py
+	4. ##Merge Sort Algorithm (Divide and Conquer): mergeSort.py
+	5. ##Quicksort Algorithm: quickSort.py
+
+Graph Algorithms
+	6. ##Kruskal’s Algorithm (Disjoint Set data structure): kruskalsAlgorithm.py (Minimum Spanning Tree)
+	7. ##Floyd Warshall Algorithm floydWarshalAlgorithm.py (Shortest path, All pairs)
+	8. ##Dijkstra’s Algorithm dijkstrasAlgo.py (Shortest path from source vertex) (Step 1. Find the node with the least edge weight, Step 2. Update the lowest path for the appropiate nodes.)
+	9. ##Bellman Ford Algorithm (Also shortest path from source vertex; can handle negative edge weights) bellmanfordAlgo.py
+	10. ##Kadane’s Algorithm (Maximum sum of a sub-array) kadanesAlgo.py
+	11. Next > Lee Algorithm
+	12. Flood Fill Algorithm
+	13. Floyd’s Cycle Detection Algorithm
+	14. Union Find Algorithm (Might already know because of Kruskal's): kruskalsAlgorithm.py
+	15. Topological Sort Algorithm
+	16. KMP Algorithm
+	17. Insertion Sort Algorithm
+	18. Selection Sort Algorithm
+	19. ##Counting Sort Algorithm (Works best with a range of numbers): countingSort.py
+	20. Heap Sort Algorithm
+	21. Kahn’s Topological Sort Algorithm
+	22. Huffman Coding Compression Algorithm
+	23. Quick Select Algorithm
+	24. Boyer–Moore Majority Vote Algorithm
+	25. Euclid’s Algorithm
